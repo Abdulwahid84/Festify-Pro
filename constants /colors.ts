@@ -1,0 +1,22 @@
+export default {
+  dark: {
+    background: '#0A0E27',
+    backgroundSecondary: '#131937',
+    card: '#1a1f3a',
+    cardBorder: '#2d3556',
+    text: '#FFFFFF',
+    textSecondary: '#9CA3AF',
+    primary: '#10F4C5',
+    primaryGlow: '#00D9A5',
+    secondary: '#FF006B',
+    accent: '#A855F7',
+    accentBlue: '#6366F1',
+    error: '#EF4444',
+    success: '#10B981',
+    warning: '#F59E0B',
+    gradient1: '#8B5CF6',
+    gradient2: '#3B82F6',
+    gradient3: '#10F4C5',
+    gradient4: '#FF006B',
+  },
+};
